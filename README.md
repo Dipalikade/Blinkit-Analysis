@@ -39,4 +39,3 @@ Understanding customer preferences based on ratings and sales
 
 Screenshot: https://github.com/Dipalikade/Blinkit-Analysis/blob/main/Snapshot_of_Dashboard
 
-https://github.com/Dipalikade/Blinkit-Analysis/blob/main/Snapshot_of_Dashboard
