@@ -37,5 +37,6 @@ Optimizing stock and inventory management
 Tracking sales performance trends over the years
 Understanding customer preferences based on ratings and sales
 
-Screenshot: https://github.com/Dipalikade/Blinkit-Analysis/blob/main/Snapshot_of_Dashboard
+Screenshot: https://github.com/Dipalikade/Blinkit-Analysis/blob/main/Snapshot_of_Dashboard.png
+
 
